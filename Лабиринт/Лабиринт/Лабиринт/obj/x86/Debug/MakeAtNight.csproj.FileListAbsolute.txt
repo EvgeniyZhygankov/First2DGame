@@ -1,0 +1,177 @@
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Текстуры.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Фон для меню.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder1.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder2.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step1.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step2.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Explode.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Grenade Hit.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Plazma.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Switch.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\PushBox.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\fallpain.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День2.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Интерфейс.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.exe
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.pdb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\TiledSharp.pdb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.exe
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.pdb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakeAtNight.csprojResolveAssemblyReference.cache
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Шрифт для ХП и Патрон.xnb
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Нет патрон.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Текстуры.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Фон для меню.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День2.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Интерфейс.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder1.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder2.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step1.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step2.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Explode.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Grenade Hit.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Plazma.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Switch.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\PushBox.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\fallpain.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Шрифт для ХП и Патрон.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Нет патрон.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.exe
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.pdb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\TiledSharp.pdb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakeAtNight.csprojResolveAssemblyReference.cache
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.exe
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.pdb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Урон.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Текстуры.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Фон для меню.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День2.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Интерфейс.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Урон.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder1.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder2.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step1.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step2.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Explode.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Grenade Hit.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Plazma.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Switch.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\PushBox.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\fallpain.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Шрифт для ХП и Патрон.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Нет патрон.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.exe
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.pdb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\TiledSharp.pdb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakeAtNight.csprojResolveAssemblyReference.cache
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.exe
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.pdb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Здание.xnb
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Door.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Здание.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Door.xnb
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Портал.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Текстуры.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Фон для меню.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День2.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Интерфейс.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Урон.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Здание.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Портал.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder1.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder2.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step1.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step2.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Explode.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Grenade Hit.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Plazma.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Switch.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\PushBox.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\fallpain.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Door.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Шрифт для ХП и Патрон.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Нет патрон.xnb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.exe
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.pdb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\TiledSharp.pdb
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakeAtNight.csprojResolveAssemblyReference.cache
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.exe
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.pdb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Текстуры.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Фон для меню.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\День2.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Интерфейс.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Урон.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Здание.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Портал.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder1.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Ladder2.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step1.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Step2.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Explode.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Grenade Hit.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Plazma.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Switch.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\PushBox.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\fallpain.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Door.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Шрифт для ХП и Патрон.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Нет патрон.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.exe
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\MakedAtNight.pdb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\TiledSharp.pdb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakeAtNight.csprojResolveAssemblyReference.cache
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.exe
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\obj\x86\Debug\MakedAtNight.pdb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\Острова.xnb
+E:\Женя\Учеба\Лабиринт\Лабиринт\Лабиринт\bin\x86\Debug\Content\ГГБ.xnb

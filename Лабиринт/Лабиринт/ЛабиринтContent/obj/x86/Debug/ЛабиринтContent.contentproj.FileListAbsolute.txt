@@ -1,0 +1,7 @@
+D:\Женя\Учеба\НА РАЗБОР\Лабиринт\Лабиринт\ЛабиринтContent\obj\x86\Debug\ЛабиринтContent.contentprojResolveAssemblyReference.cache
+D:\Женя\Учеба\XNA\Лабиринт\Лабиринт\ЛабиринтContent\obj\x86\Debug\ЛабиринтContent.contentprojResolveAssemblyReference.cache
+D:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\ЛабиринтContent\obj\x86\Debug\ЛабиринтContent.contentprojResolveAssemblyReference.cache
+E:\Женя\Учеба\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\ЛабиринтContent\obj\x86\Debug\ЛабиринтContent.contentprojResolveAssemblyReference.cache
+D:\КОПИЯ КУРСАЧА\Лабиринт\Лабиринт\ЛабиринтContent\obj\x86\Debug\ЛабиринтContent.contentprojResolveAssemblyReference.cache
+E:\Женя\Учеба\3 курс\C#\КУРСАЧ\2-ой курсач\Лабиринт\Лабиринт\ЛабиринтContent\obj\x86\Debug\ЛабиринтContent.contentprojResolveAssemblyReference.cache
+E:\Женя\Учеба\Лабиринт\Лабиринт\ЛабиринтContent\obj\x86\Debug\ЛабиринтContent.contentprojResolveAssemblyReference.cache

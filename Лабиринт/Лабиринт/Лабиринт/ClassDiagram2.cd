@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MakedAtNight.Alien">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAgAQAAAAwAADAgAIAAAAABAAQFBBAAAEQAECAQ=</HashCode>
+      <FileName>Alien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.BaseClass">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAICAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Bomb">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAgAQAAIAQAAgAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Box">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAQABIAwCAgACAAAAAAABAAQEAAAAAAAAACAA=</HashCode>
+      <FileName>Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Explosive">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQBAAAAAAAAAQAAAAAAAIgAAAAAAAABBAAAAAAAAAA=</HashCode>
+      <FileName>Explosive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Friend">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAgAQAAIAUAAAAAAAAwAAABAAAABBAAAAAAAABA=</HashCode>
+      <FileName>Friend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Game1">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABRiEEAAQAAgB5AAQCAAAggohAACAggBAAAiADQEIBQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Hero">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCQCDQgAQgAAAQAAgIggIAwABABKRQMBBABMEAABQBQ=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Lamp">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Map">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAGAAAIAEAAAAAkgAAAAAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Menu">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAEAgAABAAg4FEIAAggBAAAAAgEAEAlgAAAGAABAQ=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.NLO">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAQAAAAAAAAAAAABAQAABBAQAAAAAAAA=</HashCode>
+      <FileName>NLO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Packs">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAQAAIAQAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Packs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Plazma">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plazma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Portal">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAQAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Portal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Program">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Wall">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Chain">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="MakedAtNight.BaseClass" FixedToPoint="true">
+      <Path>
+        <Point X="5.039" Y="0.5" />
+        <Point X="5.039" Y="0.325" />
+        <Point X="2.688" Y="0.325" />
+        <Point X="2.688" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQACAAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\Chain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Enemy">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="MakedAtNight.BaseClass" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="0.5" />
+        <Point X="5.75" Y="0.377" />
+        <Point X="17.127" Y="0.377" />
+        <Point X="17.127" Y="0.625" />
+        <Point X="17.25" Y="0.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAQABAgASQAAAwAAhAgAIAAAABBKRQMBxAAIEAABAQQ=</HashCode>
+      <FileName>Неиспользуемое\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Grass">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAgAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\Grass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.InvicibleWall">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\InvicibleWall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Key">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Ladder">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\Ladder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Rocket">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\Rocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.Rubbish">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAgAQAAIAQAAAAAAAAAAAABAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\Rubbish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakedAtNight.SpecialForEnemy">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Неиспользуемое\SpecialForEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
